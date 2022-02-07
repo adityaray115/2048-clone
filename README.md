@@ -10,6 +10,8 @@ the direction of the key pressed as much as free space allows it to. Alse two ti
 Also after this shifting is done if there is some free space avaibale on board, one of these free spaces will be filled with a block of value '2' or '4' randomly to allow the game to continue.
 
 ![Layout](https://github.com/adityaray115/2048-clone/blob/main/Layout.png?raw=true)
+
+
 ## Deployment
 
 To deploy this project run
